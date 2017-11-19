@@ -1,0 +1,10 @@
+{
+  "name": "sharpmintest",
+  "version": "1.0.0",
+  "description": "Minimal sharp negate test",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.18.4"
+  }
+}
